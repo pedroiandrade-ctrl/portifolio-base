@@ -6,8 +6,8 @@ const portfolio = {
         "corTexto": "#f8fafc"
     },
     "perfil": {
-        "nome": "Seu Nome Aqui",
-        "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
+        "nome": "Pedro Ivo Sandes",
+        "cargo": "Estudante de Tecnologia | Fotográfo | Empreendedor de Energia Solar",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
         "foto": "./assets/avatar-placeholder.png",
         "links": [
