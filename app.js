@@ -9,15 +9,23 @@ const portfolio = {
         "nome": "Pedro Ivo Sandes",
         "cargo": "Estudante de Tecnologia | Fotográfo | Empreendedor de Energia Solar",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
-        "foto": "./assets/avatar-placeholder.png",
+        "foto": "./assets/IMG_0157.JPG",
         "links": [
             {
                 "rotulo": "GitHub",
                 "url": "https://github.com"
             },
             {
-                "rotulo": "LinkedIn",
-                "url": "https://linkedin.com"
+                "rotulo": "Instagram",
+                "url": "https://instagram.com/pedro.sandess"
+          },
+            {
+                "rotulo": "Fotografia",
+                "url": "https://instagram.com/sandesfoto"
+            },
+            {
+                "rotulo": "SSolar",
+                "url": "https://instagram.com/ssolar_sergipe"
             }
         ]
     },
@@ -26,13 +34,17 @@ const portfolio = {
             "id": "sobre",
             "titulo": "Sobre mim",
             "tipo": "texto",
-            "conteudo": "Escreva aqui um parágrafo contando sua trajetória, interesses e o que você busca na área de tecnologia."
+            "conteudo": "Jovem empreendedor atuando como fotográfo autonomo e sub-proprietário da Empresa de Energia Solar SSOlar Sergipe."
         },
         {
             "id": "habilidades",
             "titulo": "Habilidades",
             "tipo": "lista",
-            "itens": [
+          "itens": [
+              "Foografia Esportiva",
+              "Fotografia de Estúdio",
+            "Fotografia de Eventos",
+              "Venda e pós venda de sistemas de energia solar",
                 "HTML & CSS",
                 "JavaScript",
                 "Git & GitHub",
